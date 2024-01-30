@@ -1,6 +1,8 @@
-# BoidsQuadtree
+# Boids Quadtree
 
-BoidsQuadtree is a multiagent system simulation of flocking behavior, inspired by the Boids model developed by Craig Reynolds. It uses a Quadtree for efficient neighbor-finding, optimizing the simulation performance.
+Boids Quadtree is a multiagent system simulation of flocking behavior, inspired by the Boids model developed by Craig Reynolds. It uses a Quadtree for efficient neighbor-finding, optimizing the simulation performance.
+
+![Boids Quadtree](screenshot.png)
 
 ## Boids Multiagent System
 
@@ -19,4 +21,3 @@ $ git clone https://github.com/marinactonci/BoidsQuadtree.git
 $ cd BoidQuadtree
 $ python boids_quadtree.py
 ```
-# BoidsQuadtree
